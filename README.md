@@ -1,4 +1,8 @@
-# 24MOB-microservices
+# 1MOBR-microservices
+
+Projeto final do curso DESENVOLVIMENTO DE MICROSSERVIÇOS E APIS - FIAP
+
+## Serviços
 
 Serviço 1 rodando em http://localhost:4000/api/clientes
 
